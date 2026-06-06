@@ -134,13 +134,6 @@ AI/ML:           AWS Bedrock • LangChain • Prompt Engineering • MCP
 
 ---
 
-## 📊 GitHub Stats
-
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikollati721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikollati721&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌱 Currently Learning
 
 - 🤖 Advanced LLM integration patterns (RAG, fine-tuning, prompt engineering)
