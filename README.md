@@ -2,10 +2,10 @@
 
 **Backend Engineer II @ Yahoo** | **Ex-CRED** | Building high-throughput distributed systems at scale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikollati721)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikumar-kollati-aa23a616a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saikollati721)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lskumarkollati721@gmail.com)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/saikollati721)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]([https://www.credly.com/users/saikollati721](https://www.credly.com/badges/1b6313b1-b5f0-4a0c-bf22-3727d41df5f7/linked_in_profile))
 
 ---
 
